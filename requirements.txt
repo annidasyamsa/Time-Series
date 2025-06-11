@@ -1,0 +1,13 @@
+wheel==0.38.4
+pymeeus==0.5.12
+neuralprophet>=0.6.0
+streamlit>=1.36
+altair==4.2.2
+pandas
+plotly
+matplotlib
+openpyxl
+seaborn
+prophet
+scikit-learn
+statsmodels
